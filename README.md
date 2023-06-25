@@ -35,9 +35,12 @@ below is an example:
     }
 }
 ```
+
 the download_url can be used with an api call to get the file contents
+you can also just use `https://raw.githubusercontent.com/scuba75/swgoh-gamedata/main/FILE_NAME.json` as url to download
+
 
 Please read about the rate limits here:
 https://docs.github.com/en/rest/overview/resources-in-the-rest-api?apiVersion=2022-11-28#rate-limiting
 
-The data updates are made via this https://github.com/scuba75/gamedatasync
+The data updates are made via this https://github.com/c3pobot/gamedatasync
