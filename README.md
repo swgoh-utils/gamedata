@@ -1,4 +1,4 @@
-# swgoh-gamedata
+# swgoh-gamedata.
 This should be updated automatically within about 10 mins of a new update pushed for the game
 all the collections are structured as 
 ```
