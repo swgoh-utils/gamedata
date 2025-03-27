@@ -13,7 +13,7 @@ The versions of the files may be update before these are due to upload errors
 
 It is recommended to just pull this file and compare to stored values before pulling all the files.
 ```
-https://raw.githubusercontent.com/swgoh-utils/gamedata/main/versions.json
+https://raw.githubusercontent.com/swgoh-utils/gamedata/main/allVersions.json
 ```
 Performing a GET request to `https://api.github.com/repos/swgoh-utils/gamedata/contents` will give a list of all the files
 below is an example:
