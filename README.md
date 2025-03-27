@@ -13,31 +13,31 @@ The versions of the files may be update before these are due to upload errors
 
 It is recommended to just pull this file and compare to stored values before pulling all the files.
 ```
-https://raw.githubusercontent.com/scuba75/swgoh-gamedata/main/versions.json
+https://raw.githubusercontent.com/swgoh-utils/gamedata/main/versions.json
 ```
-Performing a GET request to `https://api.github.com/repos/scuba75/swgoh-gamedata/contents` will give a list of all the files
+Performing a GET request to `https://api.github.com/repos/swgoh-utils/gamedata/contents` will give a list of all the files
 below is an example:
 ```
 {
-    "name": "Loc_ENG_US.txt.json",
-    "path": "Loc_ENG_US.txt.json",
-    "sha": "2540cba2b4cec3c862a4f5af40e68327911cc99f",
-    "size": 9224104,
-    "url": "https://api.github.com/repos/scuba75/swgoh-gamedata/contents/Loc_ENG_US.txt.json?ref=main",
-    "html_url": "https://github.com/scuba75/swgoh-gamedata/blob/main/Loc_ENG_US.txt.json",
-    "git_url": "https://api.github.com/repos/scuba75/swgoh-gamedata/git/blobs/2540cba2b4cec3c862a4f5af40e68327911cc99f",
-    "download_url": "https://raw.githubusercontent.com/scuba75/swgoh-gamedata/main/Loc_ENG_US.txt.json",
+    "name": "Loc_CHS_CN.txt.json",
+    "path": "Loc_CHS_CN.txt.json",
+    "sha": "e755a1e745f0b77be711a82f24e4a713b4084e34",
+    "size": 12698495,
+    "url": "https://api.github.com/repos/swgoh-utils/gamedata/contents/Loc_CHS_CN.txt.json?ref=main",
+    "html_url": "https://github.com/swgoh-utils/gamedata/blob/main/Loc_CHS_CN.txt.json",
+    "git_url": "https://api.github.com/repos/swgoh-utils/gamedata/git/blobs/e755a1e745f0b77be711a82f24e4a713b4084e34",
+    "download_url": "https://raw.githubusercontent.com/swgoh-utils/gamedata/main/Loc_CHS_CN.txt.json",
     "type": "file",
     "_links": {
-        "self": "https://api.github.com/repos/scuba75/swgoh-gamedata/contents/Loc_ENG_US.txt.json?ref=main",
-        "git": "https://api.github.com/repos/scuba75/swgoh-gamedata/git/blobs/2540cba2b4cec3c862a4f5af40e68327911cc99f",
-        "html": "https://github.com/scuba75/swgoh-gamedata/blob/main/Loc_ENG_US.txt.json"
+      "self": "https://api.github.com/repos/swgoh-utils/gamedata/contents/Loc_CHS_CN.txt.json?ref=main",
+      "git": "https://api.github.com/repos/swgoh-utils/gamedata/git/blobs/e755a1e745f0b77be711a82f24e4a713b4084e34",
+      "html": "https://github.com/swgoh-utils/gamedata/blob/main/Loc_CHS_CN.txt.json"
     }
-}
+  }
 ```
 
 the download_url can be used with an api call to get the file contents
-you can also just use `https://raw.githubusercontent.com/scuba75/swgoh-gamedata/main/FILE_NAME.json` as url to download
+you can also just use `https://raw.githubusercontent.com/swgoh-utils/gamedata/main/FILE_NAME.json` as url to download
 
 
 Please read about the rate limits here:
