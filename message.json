@@ -1,0 +1,1 @@
+{"version":"0.40.2:iZ0pi-pnTUW6jA7v7Lmvog","data":"Did not receive a response code back from the server, even after a retry. The items value \"-1\" may be invalid. Try a value from the GameDataItems enums (e.g., Segment1, Segment2, Segment3, Segment4)."}
