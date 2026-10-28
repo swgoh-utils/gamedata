@@ -1,0 +1,3854 @@
+[
+  {
+    "planet": "p1c01",
+    "planet_name": "coruscant",
+    "conflict_id": "tb3_mixed_phase01_conflict01",
+    "zone_id": "tb3_mixed_phase01_conflict01_recon01",
+    "kind": "operations",
+    "mission_id": null,
+    "local": [
+      0.014,
+      0.0523,
+      -0.011
+    ],
+    "screen": [
+      -0.888,
+      -0.603
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 5,
+      "min_units": null,
+      "max_units": null,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far bottom left (about 7 o'clock)"
+  },
+  {
+    "planet": "p1c01",
+    "planet_name": "coruscant",
+    "conflict_id": "tb3_mixed_phase01_conflict01",
+    "zone_id": "tb3_mixed_phase01_conflict01_strike01",
+    "kind": "character",
+    "mission_id": "PHASE1_TERRITORY_01_COMBATMISSION_01",
+    "local": [
+      -0.0033,
+      0.0523,
+      -0.0371
+    ],
+    "screen": [
+      -0.36,
+      0.19
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 5,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Jedi"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "top right (about 1 o'clock)"
+  },
+  {
+    "planet": "p1c01",
+    "planet_name": "coruscant",
+    "conflict_id": "tb3_mixed_phase01_conflict01",
+    "zone_id": "tb3_mixed_phase01_conflict01_strike02",
+    "kind": "character",
+    "mission_id": "PHASE1_TERRITORY_01_COMBATMISSION_02",
+    "local": [
+      -0.0113,
+      0.0527,
+      -0.0281
+    ],
+    "screen": [
+      -0.119,
+      -0.083
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 5,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Jedi"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "MACEWINDU",
+          "name": "Mace Windu",
+          "slot": 0
+        },
+        {
+          "base_id": "KITFISTO",
+          "name": "Kit Fisto",
+          "slot": 1
+        }
+      ]
+    },
+    "location": "far right (about 3 o'clock)"
+  },
+  {
+    "planet": "p1c01",
+    "planet_name": "coruscant",
+    "conflict_id": "tb3_mixed_phase01_conflict01",
+    "zone_id": "tb3_mixed_phase01_conflict01_strike03",
+    "kind": "character",
+    "mission_id": "PHASE1_TERRITORY_01_COMBATMISSION_03",
+    "local": [
+      0.0099,
+      0.0528,
+      -0.0301
+    ],
+    "screen": [
+      -0.763,
+      -0.022
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 5,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Light Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "just above and left of centre (about 11 o'clock)"
+  },
+  {
+    "planet": "p1c01",
+    "planet_name": "coruscant",
+    "conflict_id": "tb3_mixed_phase01_conflict01",
+    "zone_id": "tb3_mixed_phase01_conflict01_strike04",
+    "kind": "character",
+    "mission_id": "PHASE1_TERRITORY_01_COMBATMISSION_04",
+    "local": [
+      0.0202,
+      0.0532,
+      -0.0213
+    ],
+    "screen": [
+      -1.082,
+      -0.29
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 5,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Light Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "left (about 9 o'clock)"
+  },
+  {
+    "planet": "p1c01",
+    "planet_name": "coruscant",
+    "conflict_id": "tb3_mixed_phase01_conflict01",
+    "zone_id": "tb3_mixed_phase01_conflict01_strike05",
+    "kind": "fleet",
+    "mission_id": "PHASE1_TERRITORY_01_FLEETMISSION_01",
+    "local": [
+      0.0212,
+      0.0518,
+      -0.039
+    ],
+    "screen": [
+      -1.096,
+      0.246
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": null,
+      "min_units": 3,
+      "max_units": 4,
+      "allowed": [
+        "Light Side"
+      ],
+      "leader": [
+        "Light Side"
+      ],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "OUTRIDER",
+          "name": "Outrider",
+          "slot": 1
+        }
+      ]
+    },
+    "location": "far top left (about 10 o'clock)"
+  },
+  {
+    "planet": "p1c02",
+    "planet_name": "mustafar",
+    "conflict_id": "tb3_mixed_phase01_conflict02",
+    "zone_id": "tb3_mixed_phase01_conflict02_recon01",
+    "kind": "operations",
+    "mission_id": null,
+    "local": [
+      -0.0298,
+      0.0463,
+      -0.0007
+    ],
+    "screen": [
+      -0.419,
+      -0.59
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 5,
+      "min_units": null,
+      "max_units": null,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "bottom right (about 5 o'clock)"
+  },
+  {
+    "planet": "p1c02",
+    "planet_name": "mustafar",
+    "conflict_id": "tb3_mixed_phase01_conflict02",
+    "zone_id": "tb3_mixed_phase01_conflict02_strike01",
+    "kind": "character",
+    "mission_id": "PHASE1_TERRITORY_02_COMBATMISSION_01",
+    "local": [
+      -0.0056,
+      0.0352,
+      -0.0305
+    ],
+    "screen": [
+      -0.969,
+      0.157
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 5,
+      "min_units": 1,
+      "max_units": 1,
+      "allowed": [
+        "Lord Vader"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "LORDVADER",
+          "name": "Lord Vader",
+          "slot": 0
+        }
+      ]
+    },
+    "location": "top left (about 10 o'clock)"
+  },
+  {
+    "planet": "p1c02",
+    "planet_name": "mustafar",
+    "conflict_id": "tb3_mixed_phase01_conflict02",
+    "zone_id": "tb3_mixed_phase01_conflict02_strike02",
+    "kind": "character",
+    "mission_id": "PHASE1_TERRITORY_02_COMBATMISSION_02",
+    "local": [
+      -0.0381,
+      0.038,
+      -0.0097
+    ],
+    "screen": [
+      -0.186,
+      -0.35
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 5,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Dark Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "bottom right (about 4 o'clock)"
+  },
+  {
+    "planet": "p1c02",
+    "planet_name": "mustafar",
+    "conflict_id": "tb3_mixed_phase01_conflict02",
+    "zone_id": "tb3_mixed_phase01_conflict02_strike03",
+    "kind": "character",
+    "mission_id": "PHASE1_TERRITORY_02_COMBATMISSION_03",
+    "local": [
+      0.0018,
+      0.0375,
+      -0.0077
+    ],
+    "screen": [
+      -1.184,
+      -0.4
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 5,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Dark Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far bottom left (about 8 o'clock)"
+  },
+  {
+    "planet": "p1c02",
+    "planet_name": "mustafar",
+    "conflict_id": "tb3_mixed_phase01_conflict02",
+    "zone_id": "tb3_mixed_phase01_conflict02_strike04",
+    "kind": "character",
+    "mission_id": "PHASE1_TERRITORY_02_COMBATMISSION_04",
+    "local": [
+      -0.0264,
+      0.0353,
+      -0.0274
+    ],
+    "screen": [
+      -0.465,
+      0.083
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 5,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Dark Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "just above and right of centre (about 1 o'clock)"
+  },
+  {
+    "planet": "p1c02",
+    "planet_name": "mustafar",
+    "conflict_id": "tb3_mixed_phase01_conflict02",
+    "zone_id": "tb3_mixed_phase01_conflict02_strike05",
+    "kind": "fleet",
+    "mission_id": "PHASE1_TERRITORY_02_FLEETMISSION_01",
+    "local": [
+      -0.0439,
+      0.0379,
+      -0.032
+    ],
+    "screen": [
+      -0.039,
+      0.203
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": null,
+      "min_units": 3,
+      "max_units": 4,
+      "allowed": [
+        "Dark Side"
+      ],
+      "leader": [
+        "Dark Side"
+      ],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "SCYTHE",
+          "name": "Scythe",
+          "slot": 1
+        }
+      ]
+    },
+    "location": "far top right (about 2 o'clock)"
+  },
+  {
+    "planet": "p1c03",
+    "planet_name": "corellia",
+    "conflict_id": "tb3_mixed_phase01_conflict03",
+    "zone_id": "tb3_mixed_phase01_conflict03_covert01",
+    "kind": "special",
+    "mission_id": "PHASE1_TERRITORY_03_SPECIALMISSION",
+    "local": [
+      -0.0138,
+      0.051,
+      0.0368
+    ],
+    "screen": [
+      -0.884,
+      -0.529
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 5,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "QIRA",
+          "name": "Qi'ra",
+          "slot": 0
+        },
+        {
+          "base_id": "YOUNGHAN",
+          "name": "Young Han Solo",
+          "slot": 1
+        }
+      ]
+    },
+    "location": "bottom left (about 7 o'clock)"
+  },
+  {
+    "planet": "p1c03",
+    "planet_name": "corellia",
+    "conflict_id": "tb3_mixed_phase01_conflict03",
+    "zone_id": "tb3_mixed_phase01_conflict03_recon01",
+    "kind": "operations",
+    "mission_id": null,
+    "local": [
+      -0.002,
+      0.0513,
+      0.0276
+    ],
+    "screen": [
+      -1.204,
+      -0.273
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 5,
+      "min_units": null,
+      "max_units": null,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far bottom left (about 8 o'clock)"
+  },
+  {
+    "planet": "p1c03",
+    "planet_name": "corellia",
+    "conflict_id": "tb3_mixed_phase01_conflict03",
+    "zone_id": "tb3_mixed_phase01_conflict03_strike01",
+    "kind": "character",
+    "mission_id": "PHASE1_TERRITORY_03_COMBATMISSION_01",
+    "local": [
+      -0.0259,
+      0.0517,
+      0.0189
+    ],
+    "screen": [
+      -0.544,
+      -0.033
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 5,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "just above and right of centre (about 2 o'clock)"
+  },
+  {
+    "planet": "p1c03",
+    "planet_name": "corellia",
+    "conflict_id": "tb3_mixed_phase01_conflict03",
+    "zone_id": "tb3_mixed_phase01_conflict03_strike02",
+    "kind": "character",
+    "mission_id": "PHASE1_TERRITORY_03_COMBATMISSION_02",
+    "local": [
+      -0.0336,
+      0.0517,
+      0.0041
+    ],
+    "screen": [
+      -0.329,
+      0.367
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 5,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "DOCTORAPHRA",
+          "name": "Doctor Aphra",
+          "slot": 0
+        }
+      ]
+    },
+    "location": "far top right (about 1 o'clock)"
+  },
+  {
+    "planet": "p1c03",
+    "planet_name": "corellia",
+    "conflict_id": "tb3_mixed_phase01_conflict03",
+    "zone_id": "tb3_mixed_phase01_conflict03_strike03",
+    "kind": "character",
+    "mission_id": "PHASE1_TERRITORY_03_COMBATMISSION_03",
+    "local": [
+      -0.0388,
+      0.0514,
+      0.0182
+    ],
+    "screen": [
+      -0.189,
+      -0.015
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 5,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "JABBATHEHUTT",
+          "name": "Jabba the Hutt",
+          "slot": 0
+        }
+      ]
+    },
+    "location": "far right (about 3 o'clock)"
+  },
+  {
+    "planet": "p1c03",
+    "planet_name": "corellia",
+    "conflict_id": "tb3_mixed_phase01_conflict03",
+    "zone_id": "tb3_mixed_phase01_conflict03_strike04",
+    "kind": "fleet",
+    "mission_id": "PHASE1_TERRITORY_03_FLEETMISSION_01",
+    "local": [
+      -0.0375,
+      0.051,
+      0.0379
+    ],
+    "screen": [
+      -0.227,
+      -0.559
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": null,
+      "min_units": 3,
+      "max_units": 4,
+      "allowed": [
+        "Dark Side",
+        "Light Side"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "MILLENNIUMFALCONPRISTINE",
+          "name": "Lando's Millennium Falcon",
+          "slot": 1
+        }
+      ]
+    },
+    "location": "far bottom right (about 4 o'clock)"
+  },
+  {
+    "planet": "p2c01",
+    "planet_name": "bracca",
+    "conflict_id": "tb3_mixed_phase02_conflict01",
+    "zone_id": "tb3_mixed_phase02_conflict01_bonus01",
+    "kind": "bonus",
+    "mission_id": null,
+    "local": [
+      -0.051,
+      0.052,
+      -0.0393
+    ],
+    "screen": [
+      -0.054,
+      0.409
+    ],
+    "requirements": null,
+    "location": "far top right (about 2 o'clock)"
+  },
+  {
+    "planet": "p2c01",
+    "planet_name": "bracca",
+    "conflict_id": "tb3_mixed_phase02_conflict01",
+    "zone_id": "tb3_mixed_phase02_conflict01_covert01",
+    "kind": "special",
+    "mission_id": "PHASE1_TERRITORY_02_SPECIALMISSION",
+    "local": [
+      -0.0018,
+      0.0527,
+      0.0022
+    ],
+    "screen": [
+      -1.103,
+      -0.465
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": 2,
+      "max_units": 2,
+      "allowed": [
+        "Cere Junda",
+        "territory_calkestis"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "CEREJUNDA",
+          "name": "Cere Junda",
+          "slot": 0
+        }
+      ]
+    },
+    "location": "far bottom left (about 8 o'clock)"
+  },
+  {
+    "planet": "p2c01",
+    "planet_name": "bracca",
+    "conflict_id": "tb3_mixed_phase02_conflict01",
+    "zone_id": "tb3_mixed_phase02_conflict01_recon01",
+    "kind": "operations",
+    "mission_id": null,
+    "local": [
+      -0.0306,
+      0.0526,
+      0.0049
+    ],
+    "screen": [
+      -0.489,
+      -0.523
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 6,
+      "min_units": null,
+      "max_units": null,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "bottom (about 6 o'clock)"
+  },
+  {
+    "planet": "p2c01",
+    "planet_name": "bracca",
+    "conflict_id": "tb3_mixed_phase02_conflict01",
+    "zone_id": "tb3_mixed_phase02_conflict01_strike01",
+    "kind": "character",
+    "mission_id": "PHASE2_TERRITORY_01_COMBATMISSION_01",
+    "local": [
+      -0.0259,
+      0.0531,
+      -0.0216
+    ],
+    "screen": [
+      -0.587,
+      0.04
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 6,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Jedi"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "centre"
+  },
+  {
+    "planet": "p2c01",
+    "planet_name": "bracca",
+    "conflict_id": "tb3_mixed_phase02_conflict01",
+    "zone_id": "tb3_mixed_phase02_conflict01_strike02",
+    "kind": "character",
+    "mission_id": "PHASE2_TERRITORY_01_COMBATMISSION_02",
+    "local": [
+      -0.0378,
+      0.0522,
+      -0.0143
+    ],
+    "screen": [
+      -0.334,
+      -0.115
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 6,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Light Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "just right of centre (about 3 o'clock)"
+  },
+  {
+    "planet": "p2c01",
+    "planet_name": "bracca",
+    "conflict_id": "tb3_mixed_phase02_conflict01",
+    "zone_id": "tb3_mixed_phase02_conflict01_strike03",
+    "kind": "character",
+    "mission_id": "PHASE2_TERRITORY_01_COMBATMISSION_03",
+    "local": [
+      -0.001,
+      0.0527,
+      -0.0194
+    ],
+    "screen": [
+      -1.112,
+      -0.007
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 6,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Light Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far left (about 9 o'clock)"
+  },
+  {
+    "planet": "p2c01",
+    "planet_name": "bracca",
+    "conflict_id": "tb3_mixed_phase02_conflict01",
+    "zone_id": "tb3_mixed_phase02_conflict01_strike04",
+    "kind": "fleet",
+    "mission_id": "PHASE2_TERRITORY_01_FLEETMISSION_01",
+    "local": [
+      -0.0537,
+      0.0527,
+      -0.0114
+    ],
+    "screen": [
+      0.002,
+      -0.176
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": null,
+      "min_units": 2,
+      "max_units": 4,
+      "allowed": [
+        "Light Side"
+      ],
+      "leader": [
+        "Light Side"
+      ],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far right (about 3 o'clock)"
+  },
+  {
+    "planet": "p2c02",
+    "planet_name": "geonosis",
+    "conflict_id": "tb3_mixed_phase02_conflict02",
+    "zone_id": "tb3_mixed_phase02_conflict02_recon01",
+    "kind": "operations",
+    "mission_id": null,
+    "local": [
+      -0.0266,
+      0.0373,
+      -0.0009
+    ],
+    "screen": [
+      -0.578,
+      0.258
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 6,
+      "min_units": null,
+      "max_units": null,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "top (about 12 o'clock)"
+  },
+  {
+    "planet": "p2c02",
+    "planet_name": "geonosis",
+    "conflict_id": "tb3_mixed_phase02_conflict02",
+    "zone_id": "tb3_mixed_phase02_conflict02_strike01",
+    "kind": "character",
+    "mission_id": "PHASE2_TERRITORY_02_COMBATMISSION_01",
+    "local": [
+      -0.0308,
+      0.0335,
+      0.0181
+    ],
+    "screen": [
+      -0.476,
+      -0.154
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Geonosian"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "just right of centre (about 3 o'clock)"
+  },
+  {
+    "planet": "p2c02",
+    "planet_name": "geonosis",
+    "conflict_id": "tb3_mixed_phase02_conflict02",
+    "zone_id": "tb3_mixed_phase02_conflict02_strike02",
+    "kind": "character",
+    "mission_id": "PHASE2_TERRITORY_02_COMBATMISSION_02",
+    "local": [
+      -0.0425,
+      0.0367,
+      0.0036
+    ],
+    "screen": [
+      -0.231,
+      0.159
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 6,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Dark Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far top right (about 2 o'clock)"
+  },
+  {
+    "planet": "p2c02",
+    "planet_name": "geonosis",
+    "conflict_id": "tb3_mixed_phase02_conflict02",
+    "zone_id": "tb3_mixed_phase02_conflict02_strike03",
+    "kind": "character",
+    "mission_id": "PHASE2_TERRITORY_02_COMBATMISSION_03",
+    "local": [
+      -0.018,
+      0.0337,
+      0.0349
+    ],
+    "screen": [
+      -0.75,
+      -0.513
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 6,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Dark Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "bottom (about 6 o'clock)"
+  },
+  {
+    "planet": "p2c02",
+    "planet_name": "geonosis",
+    "conflict_id": "tb3_mixed_phase02_conflict02",
+    "zone_id": "tb3_mixed_phase02_conflict02_strike04",
+    "kind": "character",
+    "mission_id": "PHASE2_TERRITORY_02_COMBATMISSION_04",
+    "local": [
+      -0.0026,
+      0.0337,
+      0.0218
+    ],
+    "screen": [
+      -1.079,
+      -0.233
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 6,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Dark Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far left (about 9 o'clock)"
+  },
+  {
+    "planet": "p2c02",
+    "planet_name": "geonosis",
+    "conflict_id": "tb3_mixed_phase02_conflict02",
+    "zone_id": "tb3_mixed_phase02_conflict02_strike05",
+    "kind": "fleet",
+    "mission_id": "PHASE2_TERRITORY_02_FLEETMISSION_01",
+    "local": [
+      -0.0424,
+      0.0337,
+      0.037
+    ],
+    "screen": [
+      -0.229,
+      -0.558
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": null,
+      "min_units": 2,
+      "max_units": 4,
+      "allowed": [
+        "Dark Side"
+      ],
+      "leader": [
+        "Dark Side"
+      ],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far bottom right (about 4 o'clock)"
+  },
+  {
+    "planet": "p2c03",
+    "planet_name": "felucia",
+    "conflict_id": "tb3_mixed_phase02_conflict03",
+    "zone_id": "tb3_mixed_phase02_conflict03_recon01",
+    "kind": "operations",
+    "mission_id": null,
+    "local": [
+      -0.0389,
+      0.0539,
+      0.0184
+    ],
+    "screen": [
+      -0.251,
+      -0.491
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 6,
+      "min_units": null,
+      "max_units": null,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "bottom right (about 5 o'clock)"
+  },
+  {
+    "planet": "p2c03",
+    "planet_name": "felucia",
+    "conflict_id": "tb3_mixed_phase02_conflict03",
+    "zone_id": "tb3_mixed_phase02_conflict03_strike01",
+    "kind": "character",
+    "mission_id": "PHASE2_TERRITORY_03_COMBATMISSION_01",
+    "local": [
+      -0.0093,
+      0.0557,
+      -0.0038
+    ],
+    "screen": [
+      -1.101,
+      0.145
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 6,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "YOUNGLANDO",
+          "name": "Young Lando Calrissian",
+          "slot": 1
+        }
+      ]
+    },
+    "location": "far top left (about 10 o'clock)"
+  },
+  {
+    "planet": "p2c03",
+    "planet_name": "felucia",
+    "conflict_id": "tb3_mixed_phase02_conflict03",
+    "zone_id": "tb3_mixed_phase02_conflict03_strike02",
+    "kind": "character",
+    "mission_id": "PHASE2_TERRITORY_03_COMBATMISSION_02",
+    "local": [
+      -0.0366,
+      0.0538,
+      -0.0014
+    ],
+    "screen": [
+      -0.314,
+      0.073
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 6,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "just above and right of centre (about 2 o'clock)"
+  },
+  {
+    "planet": "p2c03",
+    "planet_name": "felucia",
+    "conflict_id": "tb3_mixed_phase02_conflict03",
+    "zone_id": "tb3_mixed_phase02_conflict03_strike03",
+    "kind": "character",
+    "mission_id": "PHASE2_TERRITORY_03_COMBATMISSION_03",
+    "local": [
+      -0.0144,
+      0.0535,
+      0.0161
+    ],
+    "screen": [
+      -0.947,
+      -0.424
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 6,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "HONDO",
+          "name": "Hondo Ohnaka",
+          "slot": 1
+        }
+      ]
+    },
+    "location": "bottom left (about 8 o'clock)"
+  },
+  {
+    "planet": "p2c03",
+    "planet_name": "felucia",
+    "conflict_id": "tb3_mixed_phase02_conflict03",
+    "zone_id": "tb3_mixed_phase02_conflict03_strike04",
+    "kind": "fleet",
+    "mission_id": "PHASE2_TERRITORY_03_FLEETMISSION_01",
+    "local": [
+      -0.0493,
+      0.0546,
+      -0.0136
+    ],
+    "screen": [
+      0.045,
+      0.419
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": null,
+      "min_units": 2,
+      "max_units": 4,
+      "allowed": [
+        "Dark Side",
+        "Light Side"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far top right (about 2 o'clock)"
+  },
+  {
+    "planet": "p2c03",
+    "planet_name": "felucia",
+    "conflict_id": "tb3_mixed_phase02_conflict03",
+    "zone_id": "tb3_mixed_phase02_conflict03_strike05",
+    "kind": "character",
+    "mission_id": "PHASE2_TERRITORY_03_COMBATMISSION_04",
+    "local": [
+      -0.0436,
+      0.0538,
+      0.0075
+    ],
+    "screen": [
+      -0.116,
+      -0.179
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 6,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "JABBATHEHUTT",
+          "name": "Jabba the Hutt",
+          "slot": 0
+        }
+      ]
+    },
+    "location": "bottom right (about 4 o'clock)"
+  },
+  {
+    "planet": "p3c01",
+    "planet_name": "kashyyk",
+    "conflict_id": "tb3_mixed_phase03_conflict01",
+    "zone_id": "tb3_mixed_phase03_conflict01_covert01",
+    "kind": "special",
+    "mission_id": "PHASE3_TERRITORY_01_SPECIALMISSION",
+    "local": [
+      -0.0155,
+      0.0525,
+      0.0028
+    ],
+    "screen": [
+      -1.039,
+      -0.097
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Rebel Fighter"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "SAWGERRERA",
+          "name": "Saw Gerrera",
+          "slot": 0
+        }
+      ]
+    },
+    "location": "left (about 9 o'clock)"
+  },
+  {
+    "planet": "p3c01",
+    "planet_name": "kashyyk",
+    "conflict_id": "tb3_mixed_phase03_conflict01",
+    "zone_id": "tb3_mixed_phase03_conflict01_recon01",
+    "kind": "operations",
+    "mission_id": null,
+    "local": [
+      -0.0208,
+      0.0506,
+      0.0187
+    ],
+    "screen": [
+      -0.88,
+      -0.532
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": null,
+      "max_units": null,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "bottom left (about 7 o'clock)"
+  },
+  {
+    "planet": "p3c01",
+    "planet_name": "kashyyk",
+    "conflict_id": "tb3_mixed_phase03_conflict01",
+    "zone_id": "tb3_mixed_phase03_conflict01_strike01",
+    "kind": "character",
+    "mission_id": "PHASE3_TERRITORY_01_COMBATMISSION_01",
+    "local": [
+      -0.0094,
+      0.0525,
+      0.0149
+    ],
+    "screen": [
+      -1.209,
+      -0.434
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Light Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far bottom left (about 8 o'clock)"
+  },
+  {
+    "planet": "p3c01",
+    "planet_name": "kashyyk",
+    "conflict_id": "tb3_mixed_phase03_conflict01",
+    "zone_id": "tb3_mixed_phase03_conflict01_strike02",
+    "kind": "character",
+    "mission_id": "PHASE3_TERRITORY_01_COMBATMISSION_02",
+    "local": [
+      -0.0413,
+      0.0522,
+      -0.0089
+    ],
+    "screen": [
+      -0.321,
+      0.227
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Light Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "top right (about 1 o'clock)"
+  },
+  {
+    "planet": "p3c01",
+    "planet_name": "kashyyk",
+    "conflict_id": "tb3_mixed_phase03_conflict01",
+    "zone_id": "tb3_mixed_phase03_conflict01_strike03",
+    "kind": "character",
+    "mission_id": "PHASE3_TERRITORY_01_COMBATMISSION_03",
+    "local": [
+      -0.014,
+      0.0525,
+      -0.0111
+    ],
+    "screen": [
+      -1.08,
+      0.289
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Wookiee"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far top left (about 10 o'clock)"
+  },
+  {
+    "planet": "p3c01",
+    "planet_name": "kashyyk",
+    "conflict_id": "tb3_mixed_phase03_conflict01",
+    "zone_id": "tb3_mixed_phase03_conflict01_strike04",
+    "kind": "fleet",
+    "mission_id": "PHASE3_TERRITORY_01_FLEETMISSION_01",
+    "local": [
+      -0.0496,
+      0.0525,
+      0.0175
+    ],
+    "screen": [
+      -0.092,
+      -0.506
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": null,
+      "min_units": 2,
+      "max_units": 4,
+      "allowed": [
+        "Light Side"
+      ],
+      "leader": [
+        "Profundity"
+      ],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far bottom right (about 4 o'clock)"
+  },
+  {
+    "planet": "p3c01b",
+    "planet_name": "zeffo",
+    "conflict_id": "tb3_mixed_phase03_conflict01_bonus",
+    "zone_id": "tb3_mixed_phase03_conflict01_bonus_covert01",
+    "kind": "special",
+    "mission_id": "PHASE3_TERRITORY_01_BONUS_SPECIALMISSION_01",
+    "local": [
+      -0.0034,
+      0.0373,
+      0.0204
+    ],
+    "screen": [
+      -1.085,
+      -0.207
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "profession_clonetrooper_ls"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far left (about 9 o'clock)"
+  },
+  {
+    "planet": "p3c01b",
+    "planet_name": "zeffo",
+    "conflict_id": "tb3_mixed_phase03_conflict01_bonus",
+    "zone_id": "tb3_mixed_phase03_conflict01_bonus_recon01",
+    "kind": "operations",
+    "mission_id": null,
+    "local": [
+      -0.0276,
+      0.0373,
+      0.0004
+    ],
+    "screen": [
+      -0.557,
+      0.229
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": null,
+      "max_units": null,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "top (about 12 o'clock)"
+  },
+  {
+    "planet": "p3c01b",
+    "planet_name": "zeffo",
+    "conflict_id": "tb3_mixed_phase03_conflict01_bonus",
+    "zone_id": "tb3_mixed_phase03_conflict01_bonus_strike01",
+    "kind": "character",
+    "mission_id": "PHASE3_TERRITORY_01_BONUS_COMBATMISSION_01",
+    "local": [
+      -0.0321,
+      0.0335,
+      0.0213
+    ],
+    "screen": [
+      -0.448,
+      -0.222
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Light Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "just below and right of centre (about 4 o'clock)"
+  },
+  {
+    "planet": "p3c01b",
+    "planet_name": "zeffo",
+    "conflict_id": "tb3_mixed_phase03_conflict01_bonus",
+    "zone_id": "tb3_mixed_phase03_conflict01_bonus_strike02",
+    "kind": "character",
+    "mission_id": "PHASE3_TERRITORY_01_BONUS_COMBATMISSION_02",
+    "local": [
+      -0.041,
+      0.0367,
+      0.0049
+    ],
+    "screen": [
+      -0.263,
+      0.13
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Light Side Unaligned Force User"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far top right (about 2 o'clock)"
+  },
+  {
+    "planet": "p3c01b",
+    "planet_name": "zeffo",
+    "conflict_id": "tb3_mixed_phase03_conflict01_bonus",
+    "zone_id": "tb3_mixed_phase03_conflict01_bonus_strike03",
+    "kind": "character",
+    "mission_id": "PHASE3_TERRITORY_01_BONUS_COMBATMISSION_03",
+    "local": [
+      -0.0164,
+      0.0337,
+      0.0336
+    ],
+    "screen": [
+      -0.784,
+      -0.485
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Light Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "JEDIKNIGHTCAL",
+          "name": "Jedi Knight Cal Kestis",
+          "slot": 0
+        }
+      ]
+    },
+    "location": "bottom left (about 7 o'clock)"
+  },
+  {
+    "planet": "p3c01b",
+    "planet_name": "zeffo",
+    "conflict_id": "tb3_mixed_phase03_conflict01_bonus",
+    "zone_id": "tb3_mixed_phase03_conflict01_bonus_strike04",
+    "kind": "fleet",
+    "mission_id": "PHASE3_TERRITORY_01_BONUS_FLEETMISSION_01",
+    "local": [
+      -0.0442,
+      0.0337,
+      0.0335
+    ],
+    "screen": [
+      -0.19,
+      -0.483
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": null,
+      "min_units": 2,
+      "max_units": 4,
+      "allowed": [
+        "Light Side"
+      ],
+      "leader": [
+        "Negotiator"
+      ],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far bottom right (about 4 o'clock)"
+  },
+  {
+    "planet": "p3c02",
+    "planet_name": "dathomir",
+    "conflict_id": "tb3_mixed_phase03_conflict02",
+    "zone_id": "tb3_mixed_phase03_conflict02_covert01",
+    "kind": "special",
+    "mission_id": "PHASE3_TERRITORY_02_SPECIALMISSION",
+    "local": [
+      -0.002,
+      0.0311,
+      0.018
+    ],
+    "screen": [
+      -1.217,
+      -0.506
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Nightsister"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "MERRIN",
+          "name": "Merrin",
+          "slot": 1
+        }
+      ]
+    },
+    "location": "far bottom left (about 8 o'clock)"
+  },
+  {
+    "planet": "p3c02",
+    "planet_name": "dathomir",
+    "conflict_id": "tb3_mixed_phase03_conflict02",
+    "zone_id": "tb3_mixed_phase03_conflict02_recon01",
+    "kind": "operations",
+    "mission_id": null,
+    "local": [
+      -0.0192,
+      0.0346,
+      -0.007
+    ],
+    "screen": [
+      -0.768,
+      0.166
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": null,
+      "max_units": null,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "top left (about 11 o'clock)"
+  },
+  {
+    "planet": "p3c02",
+    "planet_name": "dathomir",
+    "conflict_id": "tb3_mixed_phase03_conflict02",
+    "zone_id": "tb3_mixed_phase03_conflict02_strike01",
+    "kind": "character",
+    "mission_id": "PHASE3_TERRITORY_02_COMBATMISSION_01",
+    "local": [
+      -0.0304,
+      0.0382,
+      0.0026
+    ],
+    "screen": [
+      -0.481,
+      -0.087
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": 4,
+      "max_units": 5,
+      "allowed": [
+        "Dark Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "just above and right of centre (about 2 o'clock)"
+  },
+  {
+    "planet": "p3c02",
+    "planet_name": "dathomir",
+    "conflict_id": "tb3_mixed_phase03_conflict02",
+    "zone_id": "tb3_mixed_phase03_conflict02_strike02",
+    "kind": "character",
+    "mission_id": "PHASE3_TERRITORY_02_COMBATMISSION_02",
+    "local": [
+      -0.0412,
+      0.0311,
+      -0.0059
+    ],
+    "screen": [
+      -0.171,
+      0.127
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Dark Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "DOCTORAPHRA",
+          "name": "Doctor Aphra",
+          "slot": 0
+        }
+      ]
+    },
+    "location": "far top right (about 2 o'clock)"
+  },
+  {
+    "planet": "p3c02",
+    "planet_name": "dathomir",
+    "conflict_id": "tb3_mixed_phase03_conflict02",
+    "zone_id": "tb3_mixed_phase03_conflict02_strike03",
+    "kind": "character",
+    "mission_id": "PHASE3_TERRITORY_02_COMBATMISSION_03",
+    "local": [
+      -0.0447,
+      0.0311,
+      0.0105
+    ],
+    "screen": [
+      -0.08,
+      -0.306
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Dark Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far right (about 3 o'clock)"
+  },
+  {
+    "planet": "p3c02",
+    "planet_name": "dathomir",
+    "conflict_id": "tb3_mixed_phase03_conflict02",
+    "zone_id": "tb3_mixed_phase03_conflict02_strike04",
+    "kind": "character",
+    "mission_id": "PHASE3_TERRITORY_02_COMBATMISSION_04",
+    "local": [
+      -0.0182,
+      0.0311,
+      0.0198
+    ],
+    "screen": [
+      -0.786,
+      -0.555
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Empire"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "bottom left (about 7 o'clock)"
+  },
+  {
+    "planet": "p3c03",
+    "planet_name": "tatooine",
+    "conflict_id": "tb3_mixed_phase03_conflict03",
+    "zone_id": "tb3_mixed_phase03_conflict03_bonus01",
+    "kind": "bonus",
+    "mission_id": null,
+    "local": [
+      -0.0497,
+      0.0094,
+      -0.0427
+    ],
+    "screen": [
+      -0.04,
+      0.439
+    ],
+    "requirements": null,
+    "location": "far top right (about 2 o'clock)"
+  },
+  {
+    "planet": "p3c03",
+    "planet_name": "tatooine",
+    "conflict_id": "tb3_mixed_phase03_conflict03",
+    "zone_id": "tb3_mixed_phase03_conflict03_covert01",
+    "kind": "special",
+    "mission_id": "PHASE3_TERRITORY_03_COMBATMISSION_02",
+    "local": [
+      -0.0346,
+      0.0514,
+      0.0029
+    ],
+    "screen": [
+      -0.422,
+      -0.531
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Inquisitorius"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "GRANDINQUISITOR",
+          "name": "Grand Inquisitor",
+          "slot": 0
+        }
+      ]
+    },
+    "location": "bottom right (about 5 o'clock)"
+  },
+  {
+    "planet": "p3c03",
+    "planet_name": "tatooine",
+    "conflict_id": "tb3_mixed_phase03_conflict03",
+    "zone_id": "tb3_mixed_phase03_conflict03_covert02",
+    "kind": "special",
+    "mission_id": "PHASE3_TERRITORY_03_SPECIALMISSION",
+    "local": [
+      -0.0187,
+      0.0514,
+      0.0048
+    ],
+    "screen": [
+      -0.812,
+      -0.578
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": 3,
+      "max_units": 3,
+      "allowed": [
+        "Mandalorian"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "MANDALORBOKATAN",
+          "name": "Bo-Katan (Mand'alor)",
+          "slot": 0
+        },
+        {
+          "base_id": "THEMANDALORIANBESKARARMOR",
+          "name": "The Mandalorian (Beskar Armor)",
+          "slot": 1
+        }
+      ]
+    },
+    "location": "far bottom left (about 7 o'clock)"
+  },
+  {
+    "planet": "p3c03",
+    "planet_name": "tatooine",
+    "conflict_id": "tb3_mixed_phase03_conflict03",
+    "zone_id": "tb3_mixed_phase03_conflict03_recon01",
+    "kind": "operations",
+    "mission_id": null,
+    "local": [
+      -0.04,
+      0.0512,
+      -0.0126
+    ],
+    "screen": [
+      -0.288,
+      -0.151
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": null,
+      "max_units": null,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "just below and right of centre (about 4 o'clock)"
+  },
+  {
+    "planet": "p3c03",
+    "planet_name": "tatooine",
+    "conflict_id": "tb3_mixed_phase03_conflict03",
+    "zone_id": "tb3_mixed_phase03_conflict03_strike01",
+    "kind": "character",
+    "mission_id": "PHASE3_TERRITORY_03_COMBATMISSION_01",
+    "local": [
+      -0.0066,
+      0.052,
+      -0.0006
+    ],
+    "screen": [
+      -1.112,
+      -0.446
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "FENNECSHAND",
+          "name": "Fennec Shand",
+          "slot": 1
+        }
+      ]
+    },
+    "location": "far bottom left (about 8 o'clock)"
+  },
+  {
+    "planet": "p3c03",
+    "planet_name": "tatooine",
+    "conflict_id": "tb3_mixed_phase03_conflict03",
+    "zone_id": "tb3_mixed_phase03_conflict03_strike03",
+    "kind": "character",
+    "mission_id": "PHASE3_TERRITORY_03_COMBATMISSION_03",
+    "local": [
+      -0.0114,
+      0.0514,
+      -0.0231
+    ],
+    "screen": [
+      -0.987,
+      0.106
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": 4,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "top left (about 10 o'clock)"
+  },
+  {
+    "planet": "p3c03",
+    "planet_name": "tatooine",
+    "conflict_id": "tb3_mixed_phase03_conflict03",
+    "zone_id": "tb3_mixed_phase03_conflict03_strike04",
+    "kind": "character",
+    "mission_id": "PHASE3_TERRITORY_03_COMBATMISSION_04",
+    "local": [
+      -0.0293,
+      0.0514,
+      -0.022
+    ],
+    "screen": [
+      -0.55,
+      0.079
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 7,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "JABBATHEHUTT",
+          "name": "Jabba the Hutt",
+          "slot": 0
+        }
+      ]
+    },
+    "location": "just above centre (about 12 o'clock)"
+  },
+  {
+    "planet": "p3c03",
+    "planet_name": "tatooine",
+    "conflict_id": "tb3_mixed_phase03_conflict03",
+    "zone_id": "tb3_mixed_phase03_conflict03_strike05",
+    "kind": "fleet",
+    "mission_id": "PHASE3_TERRITORY_03_FLEETMISSION_01",
+    "local": [
+      -0.0507,
+      0.0514,
+      0.0041
+    ],
+    "screen": [
+      -0.027,
+      -0.56
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": null,
+      "min_units": 2,
+      "max_units": 4,
+      "allowed": [
+        "Dark Side",
+        "Light Side"
+      ],
+      "leader": [
+        "Executor"
+      ],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far bottom right (about 4 o'clock)"
+  },
+  {
+    "planet": "p4c01",
+    "planet_name": "lothal",
+    "conflict_id": "tb3_mixed_phase04_conflict01",
+    "zone_id": "tb3_mixed_phase04_conflict01_recon01",
+    "kind": "operations",
+    "mission_id": null,
+    "local": [
+      0.0252,
+      0.0506,
+      -0.0128
+    ],
+    "screen": [
+      -0.88,
+      -0.139
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 8,
+      "min_units": null,
+      "max_units": null,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "just left of centre (about 9 o'clock)"
+  },
+  {
+    "planet": "p4c01",
+    "planet_name": "lothal",
+    "conflict_id": "tb3_mixed_phase04_conflict01",
+    "zone_id": "tb3_mixed_phase04_conflict01_strike01",
+    "kind": "character",
+    "mission_id": "PHASE4_TERRITORY_01_COMBATMISSION_01",
+    "local": [
+      0.0008,
+      0.0514,
+      -0.0265
+    ],
+    "screen": [
+      -0.227,
+      0.227
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 8,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Light Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far top right (about 2 o'clock)"
+  },
+  {
+    "planet": "p4c01",
+    "planet_name": "lothal",
+    "conflict_id": "tb3_mixed_phase04_conflict01",
+    "zone_id": "tb3_mixed_phase04_conflict01_strike02",
+    "kind": "character",
+    "mission_id": "PHASE4_TERRITORY_01_COMBATMISSION_02",
+    "local": [
+      0.0164,
+      0.0527,
+      0.0029
+    ],
+    "screen": [
+      -0.66,
+      -0.567
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 8,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Jedi"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "bottom (about 6 o'clock)"
+  },
+  {
+    "planet": "p4c01",
+    "planet_name": "lothal",
+    "conflict_id": "tb3_mixed_phase04_conflict01",
+    "zone_id": "tb3_mixed_phase04_conflict01_strike03",
+    "kind": "character",
+    "mission_id": "PHASE4_TERRITORY_01_COMBATMISSION_03",
+    "local": [
+      0.0311,
+      0.0517,
+      -0.0008
+    ],
+    "screen": [
+      -1.053,
+      -0.464
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 8,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Phoenix"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far bottom left (about 8 o'clock)"
+  },
+  {
+    "planet": "p4c01",
+    "planet_name": "lothal",
+    "conflict_id": "tb3_mixed_phase04_conflict01",
+    "zone_id": "tb3_mixed_phase04_conflict01_strike04",
+    "kind": "fleet",
+    "mission_id": "PHASE4_TERRITORY_01_FLEETMISSION_01",
+    "local": [
+      0.0353,
+      0.0508,
+      -0.0258
+    ],
+    "screen": [
+      -1.143,
+      0.206
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": null,
+      "min_units": 2,
+      "max_units": 4,
+      "allowed": [
+        "Light Side"
+      ],
+      "leader": [
+        "Light Side"
+      ],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far top left (about 10 o'clock)"
+  },
+  {
+    "planet": "p4c02",
+    "planet_name": "medstation",
+    "conflict_id": "tb3_mixed_phase04_conflict02",
+    "zone_id": "tb3_mixed_phase04_conflict02_covert01",
+    "kind": "special",
+    "mission_id": "PHASE4_TERRITORY_02_SPECIALMISSION",
+    "local": [
+      0.0176,
+      0.0592,
+      0.0108
+    ],
+    "screen": [
+      -1.024,
+      -0.338
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 8,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Inquisitorius"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "THIRDSISTER",
+          "name": "Third Sister",
+          "slot": 0
+        }
+      ]
+    },
+    "location": "bottom left (about 8 o'clock)"
+  },
+  {
+    "planet": "p4c02",
+    "planet_name": "medstation",
+    "conflict_id": "tb3_mixed_phase04_conflict02",
+    "zone_id": "tb3_mixed_phase04_conflict02_recon01",
+    "kind": "operations",
+    "mission_id": null,
+    "local": [
+      -0.0419,
+      0.0483,
+      -0.0127
+    ],
+    "screen": [
+      -0.098,
+      0.025
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 8,
+      "min_units": null,
+      "max_units": null,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far right (about 3 o'clock)"
+  },
+  {
+    "planet": "p4c02",
+    "planet_name": "medstation",
+    "conflict_id": "tb3_mixed_phase04_conflict02",
+    "zone_id": "tb3_mixed_phase04_conflict02_strike01",
+    "kind": "character",
+    "mission_id": "PHASE4_TERRITORY_02_COMBATMISSION_01",
+    "local": [
+      -0.0221,
+      -0.0091,
+      -0.0296
+    ],
+    "screen": [
+      -0.319,
+      0.225
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 8,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Dark Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "top right (about 2 o'clock)"
+  },
+  {
+    "planet": "p4c02",
+    "planet_name": "medstation",
+    "conflict_id": "tb3_mixed_phase04_conflict02",
+    "zone_id": "tb3_mixed_phase04_conflict02_strike02",
+    "kind": "character",
+    "mission_id": "PHASE4_TERRITORY_02_COMBATMISSION_02",
+    "local": [
+      -0.0124,
+      -0.0012,
+      0.0104
+    ],
+    "screen": [
+      -0.447,
+      -0.265
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 8,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Dark Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "just below and right of centre (about 4 o'clock)"
+  },
+  {
+    "planet": "p4c02",
+    "planet_name": "medstation",
+    "conflict_id": "tb3_mixed_phase04_conflict02",
+    "zone_id": "tb3_mixed_phase04_conflict02_strike03",
+    "kind": "character",
+    "mission_id": "PHASE4_TERRITORY_02_COMBATMISSION_03",
+    "local": [
+      0.0434,
+      0.024,
+      -0.0143
+    ],
+    "screen": [
+      -1.243,
+      0.045
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 8,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Dark Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far left (about 9 o'clock)"
+  },
+  {
+    "planet": "p4c02",
+    "planet_name": "medstation",
+    "conflict_id": "tb3_mixed_phase04_conflict02",
+    "zone_id": "tb3_mixed_phase04_conflict02_strike04",
+    "kind": "character",
+    "mission_id": "PHASE4_TERRITORY_02_COMBATMISSION_04",
+    "local": [
+      0.0189,
+      0.0236,
+      -0.0202
+    ],
+    "screen": [
+      -0.91,
+      0.124
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 8,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Dark Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "just above and left of centre (about 10 o'clock)"
+  },
+  {
+    "planet": "p4c03",
+    "planet_name": "kessel",
+    "conflict_id": "tb3_mixed_phase04_conflict03",
+    "zone_id": "tb3_mixed_phase04_conflict03_covert01",
+    "kind": "special",
+    "mission_id": "PHASE4_TERRITORY_03_SPECIALMISSION",
+    "local": [
+      0.0004,
+      0.0527,
+      0.0209
+    ],
+    "screen": [
+      -1.081,
+      -0.428
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 8,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "QIRA",
+          "name": "Qi'ra",
+          "slot": 1
+        },
+        {
+          "base_id": "L3_37",
+          "name": "L3-37",
+          "slot": 2
+        }
+      ]
+    },
+    "location": "far bottom left (about 8 o'clock)"
+  },
+  {
+    "planet": "p4c03",
+    "planet_name": "kessel",
+    "conflict_id": "tb3_mixed_phase04_conflict03",
+    "zone_id": "tb3_mixed_phase04_conflict03_recon01",
+    "kind": "operations",
+    "mission_id": null,
+    "local": [
+      -0.0227,
+      0.0508,
+      -0.016
+    ],
+    "screen": [
+      -0.566,
+      0.351
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 8,
+      "min_units": null,
+      "max_units": null,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "top (about 12 o'clock)"
+  },
+  {
+    "planet": "p4c03",
+    "planet_name": "kessel",
+    "conflict_id": "tb3_mixed_phase04_conflict03",
+    "zone_id": "tb3_mixed_phase04_conflict03_strike01",
+    "kind": "character",
+    "mission_id": "PHASE4_TERRITORY_03_COMBATMISSION_01",
+    "local": [
+      -0.0281,
+      0.053,
+      0.0146
+    ],
+    "screen": [
+      -0.465,
+      -0.292
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 8,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "JABBATHEHUTT",
+          "name": "Jabba the Hutt",
+          "slot": 0
+        }
+      ]
+    },
+    "location": "just below and right of centre (about 5 o'clock)"
+  },
+  {
+    "planet": "p4c03",
+    "planet_name": "kessel",
+    "conflict_id": "tb3_mixed_phase04_conflict03",
+    "zone_id": "tb3_mixed_phase04_conflict03_strike02",
+    "kind": "character",
+    "mission_id": "PHASE4_TERRITORY_03_COMBATMISSION_02",
+    "local": [
+      -0.0365,
+      0.0526,
+      -0.0043
+    ],
+    "screen": [
+      -0.281,
+      0.112
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 8,
+      "min_units": 4,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "top right (about 2 o'clock)"
+  },
+  {
+    "planet": "p4c03",
+    "planet_name": "kessel",
+    "conflict_id": "tb3_mixed_phase04_conflict03",
+    "zone_id": "tb3_mixed_phase04_conflict03_strike03",
+    "kind": "character",
+    "mission_id": "PHASE4_TERRITORY_03_COMBATMISSION_03",
+    "local": [
+      0.0031,
+      0.0527,
+      -0.0121
+    ],
+    "screen": [
+      -1.121,
+      0.276
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 8,
+      "min_units": 4,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far top left (about 10 o'clock)"
+  },
+  {
+    "planet": "p4c03",
+    "planet_name": "kessel",
+    "conflict_id": "tb3_mixed_phase04_conflict03",
+    "zone_id": "tb3_mixed_phase04_conflict03_strike04",
+    "kind": "fleet",
+    "mission_id": "PHASE4_TERRITORY_03_FLEETMISSION_01",
+    "local": [
+      -0.0494,
+      0.0527,
+      0.024
+    ],
+    "screen": [
+      -0.006,
+      -0.496
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": null,
+      "min_units": 3,
+      "max_units": 4,
+      "allowed": [
+        "Dark Side",
+        "Light Side"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "GHOST",
+          "name": "Ghost",
+          "slot": 1
+        }
+      ]
+    },
+    "location": "far bottom right (about 4 o'clock)"
+  },
+  {
+    "planet": "p4c03b",
+    "planet_name": "mandalore",
+    "conflict_id": "tb3_mixed_phase04_conflict03_bonus",
+    "zone_id": "tb3_mixed_phase04_conflict03_bonus_recon01",
+    "kind": "operations",
+    "mission_id": null,
+    "local": [
+      -0.0276,
+      0.0373,
+      0.0004
+    ],
+    "screen": [
+      -0.552,
+      0.363
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 8,
+      "min_units": null,
+      "max_units": null,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far top (about 12 o'clock)"
+  },
+  {
+    "planet": "p4c03b",
+    "planet_name": "mandalore",
+    "conflict_id": "tb3_mixed_phase04_conflict03_bonus",
+    "zone_id": "tb3_mixed_phase04_conflict03_bonus_strike01",
+    "kind": "character",
+    "mission_id": "PHASE4_TERRITORY_03_BONUS_COMBATMISSION_01",
+    "local": [
+      -0.0321,
+      0.0335,
+      0.0213
+    ],
+    "screen": [
+      -0.449,
+      -0.096
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 8,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "MOFFGIDEONS3",
+          "name": "Dark Trooper Moff Gideon",
+          "slot": 0
+        }
+      ]
+    },
+    "location": "just below and right of centre (about 5 o'clock)"
+  },
+  {
+    "planet": "p4c03b",
+    "planet_name": "mandalore",
+    "conflict_id": "tb3_mixed_phase04_conflict03_bonus",
+    "zone_id": "tb3_mixed_phase04_conflict03_bonus_strike02",
+    "kind": "character",
+    "mission_id": "PHASE4_TERRITORY_03_BONUS_COMBATMISSION_02",
+    "local": [
+      -0.041,
+      0.0367,
+      0.0049
+    ],
+    "screen": [
+      -0.26,
+      0.264
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 8,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "top right (about 1 o'clock)"
+  },
+  {
+    "planet": "p4c03b",
+    "planet_name": "mandalore",
+    "conflict_id": "tb3_mixed_phase04_conflict03_bonus",
+    "zone_id": "tb3_mixed_phase04_conflict03_bonus_strike03",
+    "kind": "character",
+    "mission_id": "PHASE4_TERRITORY_01_BONUS_COMBATMISSION_03",
+    "local": [
+      -0.0164,
+      0.0337,
+      0.0336
+    ],
+    "screen": [
+      -0.792,
+      -0.361
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Mandalorian"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "MANDALORBOKATAN",
+          "name": "Bo-Katan (Mand'alor)",
+          "slot": 0
+        }
+      ]
+    },
+    "location": "far bottom left (about 7 o'clock)"
+  },
+  {
+    "planet": "p4c03b",
+    "planet_name": "mandalore",
+    "conflict_id": "tb3_mixed_phase04_conflict03_bonus",
+    "zone_id": "tb3_mixed_phase04_conflict03_bonus_strike04",
+    "kind": "fleet",
+    "mission_id": "PHASE4_TERRITORY_03_BONUS_FLEETMISSION_01",
+    "local": [
+      -0.0453,
+      0.0337,
+      0.034
+    ],
+    "screen": [
+      -0.167,
+      -0.37
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": null,
+      "min_units": 3,
+      "max_units": 4,
+      "allowed": [
+        "Dark Side",
+        "Light Side"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "GAUNTLETSTARFIGHTER",
+          "name": "Gauntlet Starfighter",
+          "slot": 1
+        }
+      ]
+    },
+    "location": "far bottom right (about 5 o'clock)"
+  },
+  {
+    "planet": "p5c01",
+    "planet_name": "kafrene",
+    "conflict_id": "tb3_mixed_phase05_conflict01",
+    "zone_id": "tb3_mixed_phase05_conflict01_recon01",
+    "kind": "operations",
+    "mission_id": null,
+    "local": [
+      0.0077,
+      0.046,
+      0.0355
+    ],
+    "screen": [
+      -0.721,
+      -0.566
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": null,
+      "max_units": null,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far bottom (about 6 o'clock)"
+  },
+  {
+    "planet": "p5c01",
+    "planet_name": "kafrene",
+    "conflict_id": "tb3_mixed_phase05_conflict01",
+    "zone_id": "tb3_mixed_phase05_conflict01_strike01",
+    "kind": "character",
+    "mission_id": "PHASE5_TERRITORY_01_COMBATMISSION_01",
+    "local": [
+      -0.0063,
+      0.0456,
+      -0.02
+    ],
+    "screen": [
+      -0.491,
+      0.326
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Light Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "CASSIANANDOR",
+          "name": "Cassian Andor",
+          "slot": 1
+        },
+        {
+          "base_id": "K2SO",
+          "name": "K-2SO",
+          "slot": 2
+        }
+      ]
+    },
+    "location": "far top (about 12 o'clock)"
+  },
+  {
+    "planet": "p5c01",
+    "planet_name": "kafrene",
+    "conflict_id": "tb3_mixed_phase05_conflict01",
+    "zone_id": "tb3_mixed_phase05_conflict01_strike02",
+    "kind": "character",
+    "mission_id": "PHASE5_TERRITORY_01_COMBATMISSION_02",
+    "local": [
+      -0.014,
+      0.0455,
+      0.0303
+    ],
+    "screen": [
+      -0.37,
+      -0.481
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Light Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "bottom right (about 5 o'clock)"
+  },
+  {
+    "planet": "p5c01",
+    "planet_name": "kafrene",
+    "conflict_id": "tb3_mixed_phase05_conflict01",
+    "zone_id": "tb3_mixed_phase05_conflict01_strike03",
+    "kind": "character",
+    "mission_id": "PHASE5_TERRITORY_01_COMBATMISSION_03",
+    "local": [
+      0.0281,
+      0.0462,
+      -0.0003
+    ],
+    "screen": [
+      -1.047,
+      0.011
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Light Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far top left (about 10 o'clock)"
+  },
+  {
+    "planet": "p5c01",
+    "planet_name": "kafrene",
+    "conflict_id": "tb3_mixed_phase05_conflict01",
+    "zone_id": "tb3_mixed_phase05_conflict01_strike04",
+    "kind": "character",
+    "mission_id": "PHASE5_TERRITORY_01_COMBATMISSION_04",
+    "local": [
+      0.0217,
+      0.0462,
+      -0.0189
+    ],
+    "screen": [
+      -0.942,
+      0.31
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Light Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far top left (about 11 o'clock)"
+  },
+  {
+    "planet": "p5c01",
+    "planet_name": "kafrene",
+    "conflict_id": "tb3_mixed_phase05_conflict01",
+    "zone_id": "tb3_mixed_phase05_conflict01_strike05",
+    "kind": "fleet",
+    "mission_id": "PHASE5_TERRITORY_01_FLEETMISSION_01",
+    "local": [
+      -0.0267,
+      0.0462,
+      -0.0076
+    ],
+    "screen": [
+      -0.165,
+      0.129
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": null,
+      "min_units": 2,
+      "max_units": 4,
+      "allowed": [
+        "Light Side"
+      ],
+      "leader": [
+        "Light Side"
+      ],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far top right (about 2 o'clock)"
+  },
+  {
+    "planet": "p5c02",
+    "planet_name": "malachor",
+    "conflict_id": "tb3_mixed_phase05_conflict02",
+    "zone_id": "tb3_mixed_phase05_conflict02_recon01",
+    "kind": "operations",
+    "mission_id": null,
+    "local": [
+      -0.0231,
+      0.0381,
+      -0.0301
+    ],
+    "screen": [
+      -0.555,
+      0.054
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": null,
+      "max_units": null,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "top right (about 1 o'clock)"
+  },
+  {
+    "planet": "p5c02",
+    "planet_name": "malachor",
+    "conflict_id": "tb3_mixed_phase05_conflict02",
+    "zone_id": "tb3_mixed_phase05_conflict02_strike01",
+    "kind": "character",
+    "mission_id": "PHASE5_TERRITORY_02_COMBATMISSION_01",
+    "local": [
+      -0.0306,
+      0.0458,
+      -0.0057
+    ],
+    "screen": [
+      -0.39,
+      -0.577
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 3,
+      "max_units": 5,
+      "allowed": [
+        "Dark Side"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "FIFTHBROTHER",
+          "name": "Fifth Brother",
+          "slot": 0
+        },
+        {
+          "base_id": "EIGHTHBROTHER",
+          "name": "Eighth Brother",
+          "slot": 1
+        },
+        {
+          "base_id": "SEVENTHSISTER",
+          "name": "Seventh Sister",
+          "slot": 2
+        }
+      ]
+    },
+    "location": "bottom right (about 5 o'clock)"
+  },
+  {
+    "planet": "p5c02",
+    "planet_name": "malachor",
+    "conflict_id": "tb3_mixed_phase05_conflict02",
+    "zone_id": "tb3_mixed_phase05_conflict02_strike02",
+    "kind": "character",
+    "mission_id": "PHASE5_TERRITORY_02_COMBATMISSION_02",
+    "local": [
+      -0.0057,
+      0.0448,
+      -0.027
+    ],
+    "screen": [
+      -1.03,
+      -0.023
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Dark Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "top left (about 10 o'clock)"
+  },
+  {
+    "planet": "p5c02",
+    "planet_name": "malachor",
+    "conflict_id": "tb3_mixed_phase05_conflict02",
+    "zone_id": "tb3_mixed_phase05_conflict02_strike03",
+    "kind": "character",
+    "mission_id": "PHASE5_TERRITORY_02_COMBATMISSION_03",
+    "local": [
+      -0.0022,
+      0.052,
+      -0.0113
+    ],
+    "screen": [
+      -1.179,
+      -0.451
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Dark Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far bottom left (about 8 o'clock)"
+  },
+  {
+    "planet": "p5c02",
+    "planet_name": "malachor",
+    "conflict_id": "tb3_mixed_phase05_conflict02",
+    "zone_id": "tb3_mixed_phase05_conflict02_strike04",
+    "kind": "character",
+    "mission_id": "PHASE5_TERRITORY_02_COMBATMISSION_04",
+    "local": [
+      -0.0393,
+      0.0428,
+      -0.0191
+    ],
+    "screen": [
+      -0.16,
+      -0.224
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Dark Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far right (about 3 o'clock)"
+  },
+  {
+    "planet": "p5c03",
+    "planet_name": "vandor",
+    "conflict_id": "tb3_mixed_phase05_conflict03",
+    "zone_id": "tb3_mixed_phase05_conflict03_covert01",
+    "kind": "special",
+    "mission_id": "PHASE5_TERRITORY_03_SPECIALMISSION",
+    "local": [
+      -0.0184,
+      0.0525,
+      0.0221
+    ],
+    "screen": [
+      -1.029,
+      -0.077
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "YOUNGHAN",
+          "name": "Young Han Solo",
+          "slot": 1
+        },
+        {
+          "base_id": "YOUNGCHEWBACCA",
+          "name": "Vandor Chewbacca",
+          "slot": 2
+        }
+      ]
+    },
+    "location": "left (about 9 o'clock)"
+  },
+  {
+    "planet": "p5c03",
+    "planet_name": "vandor",
+    "conflict_id": "tb3_mixed_phase05_conflict03",
+    "zone_id": "tb3_mixed_phase05_conflict03_recon01",
+    "kind": "operations",
+    "mission_id": null,
+    "local": [
+      -0.0321,
+      0.0513,
+      0.0322
+    ],
+    "screen": [
+      -0.63,
+      -0.373
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": null,
+      "max_units": null,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "bottom (about 6 o'clock)"
+  },
+  {
+    "planet": "p5c03",
+    "planet_name": "vandor",
+    "conflict_id": "tb3_mixed_phase05_conflict03",
+    "zone_id": "tb3_mixed_phase05_conflict03_strike01",
+    "kind": "character",
+    "mission_id": "PHASE5_TERRITORY_03_COMBATMISSION_01",
+    "local": [
+      -0.0452,
+      0.0523,
+      0.0062
+    ],
+    "screen": [
+      -0.243,
+      0.375
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far top right (about 2 o'clock)"
+  },
+  {
+    "planet": "p5c03",
+    "planet_name": "vandor",
+    "conflict_id": "tb3_mixed_phase05_conflict03",
+    "zone_id": "tb3_mixed_phase05_conflict03_strike02",
+    "kind": "character",
+    "mission_id": "PHASE5_TERRITORY_03_COMBATMISSION_02",
+    "local": [
+      -0.0371,
+      0.0524,
+      0.0186
+    ],
+    "screen": [
+      -0.482,
+      0.024
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "JABBATHEHUTT",
+          "name": "Jabba the Hutt",
+          "slot": 0
+        }
+      ]
+    },
+    "location": "just above and right of centre (about 2 o'clock)"
+  },
+  {
+    "planet": "p5c03",
+    "planet_name": "vandor",
+    "conflict_id": "tb3_mixed_phase05_conflict03",
+    "zone_id": "tb3_mixed_phase05_conflict03_strike03",
+    "kind": "character",
+    "mission_id": "PHASE5_TERRITORY_03_COMBATMISSION_03",
+    "local": [
+      -0.0139,
+      0.0525,
+      0.0348
+    ],
+    "screen": [
+      -1.176,
+      -0.449
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far bottom left (about 8 o'clock)"
+  },
+  {
+    "planet": "p5c03",
+    "planet_name": "vandor",
+    "conflict_id": "tb3_mixed_phase05_conflict03",
+    "zone_id": "tb3_mixed_phase05_conflict03_strike04",
+    "kind": "fleet",
+    "mission_id": "PHASE5_TERRITORY_03_FLEETMISSION_01",
+    "local": [
+      -0.0487,
+      0.0525,
+      0.0317
+    ],
+    "screen": [
+      -0.147,
+      -0.357
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": null,
+      "min_units": 2,
+      "max_units": 4,
+      "allowed": [
+        "Dark Side",
+        "Light Side"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far bottom right (about 4 o'clock)"
+  },
+  {
+    "planet": "p6c01",
+    "planet_name": "scarif",
+    "conflict_id": "tb3_mixed_phase06_conflict01",
+    "zone_id": "tb3_mixed_phase06_conflict01_recon01",
+    "kind": "operations",
+    "mission_id": null,
+    "local": [
+      -0.0456,
+      0.0525,
+      -0.0071
+    ],
+    "screen": [
+      -0.116,
+      -0.55
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": null,
+      "max_units": null,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far bottom right (about 4 o'clock)"
+  },
+  {
+    "planet": "p6c01",
+    "planet_name": "scarif",
+    "conflict_id": "tb3_mixed_phase06_conflict01",
+    "zone_id": "tb3_mixed_phase06_conflict01_specialmission",
+    "kind": "special",
+    "mission_id": "PHASE6_TERRITORY_01_SPECIALMISSION",
+    "local": [
+      -0.0284,
+      0.0521,
+      -0.033
+    ],
+    "screen": [
+      -0.599,
+      0.18
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Light Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "CASSIANANDOR",
+          "name": "Cassian Andor",
+          "slot": 1
+        },
+        {
+          "base_id": "K2SO",
+          "name": "K-2SO",
+          "slot": 2
+        },
+        {
+          "base_id": "PAO",
+          "name": "Pao",
+          "slot": 3
+        }
+      ]
+    },
+    "location": "top (about 12 o'clock)"
+  },
+  {
+    "planet": "p6c01",
+    "planet_name": "scarif",
+    "conflict_id": "tb3_mixed_phase06_conflict01",
+    "zone_id": "tb3_mixed_phase06_conflict01_strike01",
+    "kind": "character",
+    "mission_id": "PHASE6_TERRITORY_01_COMBATMISSION_01",
+    "local": [
+      -0.0145,
+      0.0525,
+      -0.0278
+    ],
+    "screen": [
+      -0.992,
+      0.034
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Light Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "BAZEMALBUS",
+          "name": "Baze Malbus",
+          "slot": 1
+        },
+        {
+          "base_id": "CHIRRUTIMWE",
+          "name": "Chirrut \u00cemwe",
+          "slot": 2
+        },
+        {
+          "base_id": "SCARIFREBEL",
+          "name": "Scarif Rebel Pathfinder",
+          "slot": 3
+        }
+      ]
+    },
+    "location": "far top left (about 10 o'clock)"
+  },
+  {
+    "planet": "p6c01",
+    "planet_name": "scarif",
+    "conflict_id": "tb3_mixed_phase06_conflict01",
+    "zone_id": "tb3_mixed_phase06_conflict01_strike02",
+    "kind": "character",
+    "mission_id": "PHASE6_TERRITORY_01_COMBATMISSION_02",
+    "local": [
+      -0.0382,
+      0.0512,
+      -0.0148
+    ],
+    "screen": [
+      -0.321,
+      -0.329
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Light Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "bottom right (about 4 o'clock)"
+  },
+  {
+    "planet": "p6c01",
+    "planet_name": "scarif",
+    "conflict_id": "tb3_mixed_phase06_conflict01",
+    "zone_id": "tb3_mixed_phase06_conflict01_strike03",
+    "kind": "character",
+    "mission_id": "PHASE6_TERRITORY_01_COMBATMISSION_03",
+    "local": [
+      -0.014,
+      0.0521,
+      -0.0045
+    ],
+    "screen": [
+      -1.003,
+      -0.621
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Light Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far bottom left (about 8 o'clock)"
+  },
+  {
+    "planet": "p6c01",
+    "planet_name": "scarif",
+    "conflict_id": "tb3_mixed_phase06_conflict01",
+    "zone_id": "tb3_mixed_phase06_conflict01_strike04",
+    "kind": "fleet",
+    "mission_id": "PHASE6_TERRITORY_01_FLEETMISSION_01",
+    "local": [
+      -0.0436,
+      0.0521,
+      -0.0348
+    ],
+    "screen": [
+      -0.171,
+      0.23
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": null,
+      "min_units": 2,
+      "max_units": 4,
+      "allowed": [
+        "Light Side"
+      ],
+      "leader": [
+        "Profundity"
+      ],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far top right (about 1 o'clock)"
+  },
+  {
+    "planet": "p6c02",
+    "planet_name": "deathstar",
+    "conflict_id": "tb3_mixed_phase06_conflict02",
+    "zone_id": "tb3_mixed_phase06_conflict02_recon01",
+    "kind": "operations",
+    "mission_id": null,
+    "local": [
+      0.004,
+      0.0518,
+      -0.0105
+    ],
+    "screen": [
+      -1.032,
+      0.11
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": null,
+      "max_units": null,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "top left (about 10 o'clock)"
+  },
+  {
+    "planet": "p6c02",
+    "planet_name": "deathstar",
+    "conflict_id": "tb3_mixed_phase06_conflict02",
+    "zone_id": "tb3_mixed_phase06_conflict02_strike01",
+    "kind": "character",
+    "mission_id": "PHASE6_TERRITORY_02_COMBATMISSION_01",
+    "local": [
+      -0.0371,
+      0.0511,
+      -0.0192
+    ],
+    "screen": [
+      -0.288,
+      0.266
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 1,
+      "max_units": 1,
+      "allowed": [
+        "Darth Vader"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "VADER",
+          "name": "Darth Vader",
+          "slot": 0
+        }
+      ]
+    },
+    "location": "top right (about 1 o'clock)"
+  },
+  {
+    "planet": "p6c02",
+    "planet_name": "deathstar",
+    "conflict_id": "tb3_mixed_phase06_conflict02",
+    "zone_id": "tb3_mixed_phase06_conflict02_strike02",
+    "kind": "character",
+    "mission_id": "PHASE6_TERRITORY_02_COMBATMISSION_02",
+    "local": [
+      -0.0419,
+      0.0525,
+      0.0166
+    ],
+    "screen": [
+      -0.204,
+      -0.382
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Dark Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "bottom right (about 4 o'clock)"
+  },
+  {
+    "planet": "p6c02",
+    "planet_name": "deathstar",
+    "conflict_id": "tb3_mixed_phase06_conflict02",
+    "zone_id": "tb3_mixed_phase06_conflict02_strike03",
+    "kind": "character",
+    "mission_id": "PHASE6_TERRITORY_02_COMBATMISSION_03",
+    "local": [
+      -0.0048,
+      0.0531,
+      0.0237
+    ],
+    "screen": [
+      -0.883,
+      -0.513
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Dark Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "bottom left (about 7 o'clock)"
+  },
+  {
+    "planet": "p6c02",
+    "planet_name": "deathstar",
+    "conflict_id": "tb3_mixed_phase06_conflict02",
+    "zone_id": "tb3_mixed_phase06_conflict02_strike04",
+    "kind": "character",
+    "mission_id": "PHASE6_TERRITORY_02_COMBATMISSION_04",
+    "local": [
+      0.0121,
+      0.0526,
+      0.0117
+    ],
+    "screen": [
+      -1.187,
+      -0.292
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [
+        "Dark Side",
+        "Neutral"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "IDENVERSIOEMPIRE",
+          "name": "Iden Versio",
+          "slot": 0
+        }
+      ]
+    },
+    "location": "far bottom left (about 8 o'clock)"
+  },
+  {
+    "planet": "p6c02",
+    "planet_name": "deathstar",
+    "conflict_id": "tb3_mixed_phase06_conflict02",
+    "zone_id": "tb3_mixed_phase06_conflict02_strike05",
+    "kind": "fleet",
+    "mission_id": "PHASE6_TERRITORY_02_FLEETMISSION_01",
+    "local": [
+      -0.0504,
+      0.0522,
+      -0.0183
+    ],
+    "screen": [
+      -0.049,
+      0.252
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": null,
+      "min_units": 3,
+      "max_units": 4,
+      "allowed": [
+        "Dark Side"
+      ],
+      "leader": [
+        "Dark Side"
+      ],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "TIEFIGHTERIMPERIAL",
+          "name": "Imperial TIE Fighter",
+          "slot": 1
+        }
+      ]
+    },
+    "location": "far top right (about 2 o'clock)"
+  },
+  {
+    "planet": "p6c03",
+    "planet_name": "hoth",
+    "conflict_id": "tb3_mixed_phase06_conflict03",
+    "zone_id": "tb3_mixed_phase06_conflict03_recon01",
+    "kind": "operations",
+    "mission_id": null,
+    "local": [
+      -0.0353,
+      0.0513,
+      0.0116
+    ],
+    "screen": [
+      -0.377,
+      -0.589
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": null,
+      "max_units": null,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "bottom right (about 5 o'clock)"
+  },
+  {
+    "planet": "p6c03",
+    "planet_name": "hoth",
+    "conflict_id": "tb3_mixed_phase06_conflict03",
+    "zone_id": "tb3_mixed_phase06_conflict03_strike01",
+    "kind": "character",
+    "mission_id": "PHASE6_TERRITORY_03_COMBATMISSION_01",
+    "local": [
+      -0.0071,
+      0.0505,
+      -0.0146
+    ],
+    "screen": [
+      -1.111,
+      0.101
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "JABBATHEHUTT",
+          "name": "Jabba the Hutt",
+          "slot": 0
+        }
+      ]
+    },
+    "location": "far top left (about 10 o'clock)"
+  },
+  {
+    "planet": "p6c03",
+    "planet_name": "hoth",
+    "conflict_id": "tb3_mixed_phase06_conflict03",
+    "zone_id": "tb3_mixed_phase06_conflict03_strike02",
+    "kind": "character",
+    "mission_id": "PHASE6_TERRITORY_03_COMBATMISSION_02",
+    "local": [
+      -0.0099,
+      0.0513,
+      0.0118
+    ],
+    "screen": [
+      -1.047,
+      -0.594
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far bottom left (about 7 o'clock)"
+  },
+  {
+    "planet": "p6c03",
+    "planet_name": "hoth",
+    "conflict_id": "tb3_mixed_phase06_conflict03",
+    "zone_id": "tb3_mixed_phase06_conflict03_strike03",
+    "kind": "character",
+    "mission_id": "PHASE6_TERRITORY_03_COMBATMISSION_03",
+    "local": [
+      -0.0301,
+      0.0512,
+      -0.018
+    ],
+    "screen": [
+      -0.512,
+      0.191
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "just above centre (about 12 o'clock)"
+  },
+  {
+    "planet": "p6c03",
+    "planet_name": "hoth",
+    "conflict_id": "tb3_mixed_phase06_conflict03",
+    "zone_id": "tb3_mixed_phase06_conflict03_strike04",
+    "kind": "character",
+    "mission_id": "PHASE6_TERRITORY_03_COMBATMISSION_04",
+    "local": [
+      -0.0427,
+      0.0512,
+      -0.0047
+    ],
+    "screen": [
+      -0.181,
+      -0.159
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": 9,
+      "min_units": 5,
+      "max_units": 5,
+      "allowed": [],
+      "leader": [],
+      "excluded": [],
+      "forced": [
+        {
+          "base_id": "DOCTORAPHRA",
+          "name": "Doctor Aphra",
+          "slot": 0
+        },
+        {
+          "base_id": "BT1",
+          "name": "BT-1",
+          "slot": 1
+        },
+        {
+          "base_id": "TRIPLEZERO",
+          "name": "0-0-0",
+          "slot": 2
+        }
+      ]
+    },
+    "location": "right (about 3 o'clock)"
+  },
+  {
+    "planet": "p6c03",
+    "planet_name": "hoth",
+    "conflict_id": "tb3_mixed_phase06_conflict03",
+    "zone_id": "tb3_mixed_phase06_conflict03_strike05",
+    "kind": "fleet",
+    "mission_id": "PHASE6_TERRITORY_03_FLEETMISSION_01",
+    "local": [
+      -0.0473,
+      0.0512,
+      -0.0246
+    ],
+    "screen": [
+      -0.06,
+      0.364
+    ],
+    "requirements": {
+      "min_stars": 7,
+      "min_relic": null,
+      "min_units": 2,
+      "max_units": 4,
+      "allowed": [
+        "Dark Side",
+        "Light Side"
+      ],
+      "leader": [],
+      "excluded": [],
+      "forced": []
+    },
+    "location": "far top right (about 2 o'clock)"
+  }
+]
