@@ -8,7 +8,7 @@ the units.json is filtered for obtainable === true and obtainableTime === '0' (t
 
 the units_pve is filtered for obtainable !== true or obtainableTime !== '0' (this should be pve units)
 
-the versions.json has `gameVersion` and `localeVersion` that is only updated with the current game and locale version if all files where uploaded successfully. 
+the allVersions.json has `gameVersion` and `localeVersion` that is only updated with the current game and locale version if all files where uploaded successfully. 
 The versions of the files may be update before these are due to upload errors
 
 It is recommended to just pull this file and compare to stored values before pulling all the files.
